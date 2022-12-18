@@ -1,3 +1,3 @@
 # React-Course
 
-Practice clothing shop to practice my react skills
+Projects completed while trying to practice and learn more about react
